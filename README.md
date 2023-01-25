@@ -19,6 +19,10 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 ```
+'''
+Developed by: Naveen M
+Reference number: 22000748
+'''
 import sys
 count = 0
 with open(sys.argv[1], 'r') as f:
@@ -30,7 +34,7 @@ print("Word count in file: ",count)
 
 ### OUTPUT:
 
-![Screenshot from 2023-01-23 13-25-15](https://user-images.githubusercontent.com/117974950/213991249-caeb38f6-3c0e-4273-9215-a3f0dd7c75cf.png)
+![expb](https://user-images.githubusercontent.com/117974950/214612252-74d31692-917d-4fdf-b178-5427f30ee3fd.png)
 
 
 ## RESULT:
